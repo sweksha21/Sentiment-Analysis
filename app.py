@@ -19,13 +19,7 @@ model = pickle.load(open("model.pkl", "rb"))
 tfidf = pickle.load(open("tfidf.pkl", "rb"))
 label_encoder = pickle.load(open("label_encoder.pkl", "rb"))
 
-# Header
-st.markdown("""
-<div class="hero">
-    <h1>✨ AI Sentiment Analyzer</h1>
-    <p>Apple-inspired Glassmorphism Experience</p>
-</div>
-""", unsafe_allow_html=True)
+
 
 # Input
 review = st.text_area(
