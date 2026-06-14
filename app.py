@@ -90,7 +90,7 @@ st.markdown("""
 st.markdown(
 """
 <h1 style='text-align:center;color:#111827;'>
-✨ AI Sentiment Analyzer
+✨ Sentiment Analyzer
 </h1>
 
 <p style='text-align:center;color:#6b7280;font-size:18px;'>
