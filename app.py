@@ -10,7 +10,7 @@ import time
 # ======================================
 
 st.set_page_config(
-    page_title="AI Sentiment Analyzer",
+    page_title="Sentiment Analyzer",
     page_icon="✨",
     layout="centered"
 )
