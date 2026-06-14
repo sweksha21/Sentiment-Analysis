@@ -1,4 +1,4 @@
-# ✨ AI Sentiment Analyzer
+# ✨ Sentiment Analyzer
 
 A Machine Learning-powered Sentiment Analysis web application built using **Python**, **Scikit-Learn**, and **Streamlit**.
 
